@@ -1,0 +1,3 @@
+El numero de infectados de China es de 10446 y su porcentaje del total es de 79.44330367328314
+El numero de infectados de Italy es de 588 y su porcentaje del total es de 4.471822952315765
+El numero de infectados de Japan es de 731 y su porcentaje del total es de 5.5593581260932385
