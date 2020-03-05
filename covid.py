@@ -1,5 +1,3 @@
-# import numpy as np
-
 while True:
   try:
     # Me ingresan el nombre del fichero
