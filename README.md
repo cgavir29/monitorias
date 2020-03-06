@@ -1,2 +1,2 @@
-# Monitorias
-Monitorias Python EAFIT
+# Monitorías
+Monitorías Python Universidad EAFIT
